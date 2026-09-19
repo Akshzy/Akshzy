@@ -34,10 +34,26 @@ Currently focusing on AI engineering, deep learning, NLP, computer vision, and M
 ### 📂 Projects
 <table>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/akshaykprasad/medbot/main/assets/icon.png" width="48"><br><b>MedBot</b><br>AI‑powered medical chatbot (Rasa & Transformers)</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/akshaykprasad/hospital_v2/main/assets/logo.png" width="48"><br><b>Hospital Management System</b><br>Full‑stack web app for patient records & appointments</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/akshaykprasad/saferoute/main/assets/icon.png" width="48"><br><b>SafeRoute</b><br>Real‑time crime‑aware routing with GNN</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/akshaykprasad/portfolioo-/main/assets/avatar.png" width="48"><br><b>Personal Portfolio</b><br>Showcase of projects, blogs, AI experiments</td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/akshaykprasad/medbot/main/assets/icon.png" width="64" alt="MedBot icon"><br>
+      <b>MedBot</b><br>
+      <span style="font-size:0.9em;">AI‑powered medical chatbot (Rasa & Transformers)</span>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/akshaykprasad/hospital_v2/main/assets/logo.png" width="64" alt="Hospital Management System icon"><br>
+      <b>Hospital Management System</b><br>
+      <span style="font-size:0.9em;">Full‑stack web app for patient records & appointments</span>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/akshaykprasad/saferoute/main/assets/icon.png" width="64" alt="SafeRoute icon"><br>
+      <b>SafeRoute</b><br>
+      <span style="font-size:0.9em;">Real‑time crime‑aware routing with GNN</span>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/akshaykprasad/portfolioo-/main/assets/avatar.png" width="64" alt="Portfolio icon"><br>
+      <b>Personal Portfolio</b><br>
+      <span style="font-size:0.9em;">Showcase of projects, blogs, AI experiments</span>
+    </td>
   </tr>
 </table>
 
@@ -59,11 +75,11 @@ Currently focusing on AI engineering, deep learning, NLP, computer vision, and M
 <table>
   <tr>
     <td align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="200" alt="Busy Work"/>
+      <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="220" alt="Busy Work"/>
       <br><i>I enjoy the buzz of solving challenging problems.</i>
     </td>
     <td align="center">
-      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/dad5d025-91c3-43b9-9a3d-1c9266f77cb7" width="200" alt="Life Balance"/>
+      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/dad5d025-91c3-43b9-9a3d-1c9266f77cb7" width="220" alt="Life Balance"/>
       <br><i>Outside of code I balance learning, creativity, and calm.</i>
     </td>
   </tr>
@@ -81,7 +97,7 @@ Build → Break → Debug → Learn → Repeat
 
 ### 🐱 Mario Moment
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="120" alt="Mario"/>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="200" alt="Mario"/>
 </p>
 
 ---
@@ -96,23 +112,23 @@ Build → Break → Debug → Learn → Repeat
 
 ### 😺 Octocat
 <p align="center">
-  <img src="https://octodex.github.com/images/maxtocat.gif" width="120" alt="Maxtocat"/>
+  <img src="https://octodex.github.com/images/maxtocat.gif" width="150" alt="Maxtocat"/>
 </p>
 
 ---
 
 ### 📱 Connect With Me
 <div align="center">
-  <a href="https://youtube.com/YourChannel" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&color=FF0000&logoColor=white&style=for-the-badge" height="30"/>
+  <a href="https://www.linkedin.com/in/akshay-k-prasad-58a5a2257" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="30"/>
   </a>
   <a href="https://instagram.com/YourInstagram" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="30"/>
   </a>
-  <a href="https://linkedin.com/in/YourLinkedIn" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="30"/>
+  <a href="https://youtube.com/YourChannel" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&color=FF0000&logoColor=white&style=for-the-badge" height="30"/>
   </a>
-  <a href="mailto:youremail@gmail.com">
+  <a href="mailto:akshaykprasad17@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="30"/>
   </a>
 </div>
